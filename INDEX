@@ -1,0 +1,4 @@
+pairwisePenLinearReg    high-dimensional linear regression with
+                        pairwise penalty
+rcpparma_hello_world    Set of functions in example RcppArmadillo
+                        package

@@ -1,0 +1,15 @@
+Package: pairwisePenReg
+Type: Package
+Title: What the package does (short line)
+Version: 1.0
+Date: 2021-04-02
+Author: Who wrote it
+Maintainer: Who to complain to <yourfault@somewhere.net>
+Description: More about what it does (maybe more than one line)
+License: What license is it under?
+Imports: Rcpp (>= 1.0.6)
+LinkingTo: Rcpp, RcppArmadillo
+NeedsCompilation: yes
+Packaged: 2021-05-03 08:45:57 UTC; Liuxianju
+Built: R 4.1.1; x86_64-w64-mingw32; 2021-09-17 09:16:22 UTC; windows
+Archs: i386, x64
